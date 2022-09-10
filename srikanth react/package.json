@@ -1,0 +1,14 @@
+{
+  "name": "just-checking",
+  "version": "1.0.0",
+  "description": "\" this is for learning\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "cmd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-toastify": "^9.0.8"
+  }
+}
